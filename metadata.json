@@ -32,7 +32,7 @@
         "Generation 5->4: brantley switched to generation UNKNOWN"
       ],
       "created": 1667051923,
-      "lastActive": 1667058136
+      "lastActive": 1667071857
     },
     "5": {
       "path": "/nix/store/q405qj782ph21vdilky8yrha0ddnvja3-profile",
@@ -41,7 +41,15 @@
       ],
       "created": 1667058100,
       "lastActive": 1667058136
+    },
+    "6": {
+      "path": "/nix/store/cccbrlrcz9hnlq78qbvvikda4rr9w5cf-profile",
+      "logMessage": [
+        "Generation 4->6: brantley installed staging.nixpkgs-flox.asciinema-agg"
+      ],
+      "created": 1667071863,
+      "lastActive": 1667071857
     }
   },
-  "currentGen": "4"
+  "currentGen": "6"
 }
