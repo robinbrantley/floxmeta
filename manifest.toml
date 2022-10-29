@@ -20,6 +20,10 @@
 
 # ------------------------ >8 ------------------------
 [packages]
+  [packages.""]
+  channel = "nixpkgs"
+  stability = "vscode"
+
   [packages."ack"]
   channel = "nixpkgs-flox"
   stability = "stable"

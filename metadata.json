@@ -31,8 +31,16 @@
         "Generation 3->4: brantley installed stable.nixpkgs-flox.ack"
       ],
       "created": 1667051923,
-      "lastActive": 1667051919
+      "lastActive": 1667057870
+    },
+    "5": {
+      "path": "/nix/store/q405qj782ph21vdilky8yrha0ddnvja3-profile",
+      "logMessage": [
+        "Generation 4->5: brantley installed nixpkgs#vscode"
+      ],
+      "created": 1667058100,
+      "lastActive": 1667057870
     }
   },
-  "currentGen": "4"
+  "currentGen": "5"
 }
