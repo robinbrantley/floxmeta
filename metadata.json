@@ -7,8 +7,16 @@
         "Generation 1: brantley installed stable.flox.flox"
       ],
       "created": 1667050150,
-      "lastActive": 1667050139
+      "lastActive": 1667050197
+    },
+    "2": {
+      "path": "/nix/store/xys62npasz12dc2arqw2nbxh9k25rfi2-profile",
+      "logMessage": [
+        "Generation 1->2: brantley installed stable.nixpkgs-flox.git"
+      ],
+      "created": 1667050227,
+      "lastActive": 1667050197
     }
   },
-  "currentGen": "1"
+  "currentGen": "2"
 }

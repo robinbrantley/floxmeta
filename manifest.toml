@@ -19,10 +19,12 @@
 # *not* be preserved with updates.
 
 # ------------------------ >8 ------------------------
-
-# ------------------------ >8 ------------------------
 [packages]
   [packages."flox"]
   channel = "flox"
+  stability = "stable"
+
+  [packages."git"]
+  channel = "nixpkgs-flox"
   stability = "stable"
 
