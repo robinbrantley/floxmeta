@@ -28,3 +28,7 @@
   channel = "nixpkgs-flox"
   stability = "stable"
 
+  [packages."tmux"]
+  channel = "nixpkgs-flox"
+  stability = "stable"
+
