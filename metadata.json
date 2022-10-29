@@ -23,8 +23,16 @@
         "Generation 2->3: brantley installed stable.nixpkgs-flox.tmux"
       ],
       "created": 1667051010,
-      "lastActive": 1667051006
+      "lastActive": 1667051919
+    },
+    "4": {
+      "path": "/nix/store/plkzzwbr68akb345hqk15lyqzxma48bh-profile",
+      "logMessage": [
+        "Generation 3->4: brantley installed stable.nixpkgs-flox.ack"
+      ],
+      "created": 1667051923,
+      "lastActive": 1667051919
     }
   },
-  "currentGen": "3"
+  "currentGen": "4"
 }

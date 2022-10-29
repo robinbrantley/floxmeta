@@ -20,6 +20,10 @@
 
 # ------------------------ >8 ------------------------
 [packages]
+  [packages."ack"]
+  channel = "nixpkgs-flox"
+  stability = "stable"
+
   [packages."flox"]
   channel = "flox"
   stability = "stable"
