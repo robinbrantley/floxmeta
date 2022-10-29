@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generations": {
+    "1": {
+      "path": "/nix/store/acw1z8fkkzl75jmsf8h1d9x8zzdzpl9v-profile",
+      "logMessage": [
+        "Generation 1: brantley installed stable.flox.flox"
+      ],
+      "created": 1667050150,
+      "lastActive": 1667050139
+    }
+  },
+  "currentGen": "1"
+}
