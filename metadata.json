@@ -48,8 +48,16 @@
         "Generation 4->6: brantley installed staging.nixpkgs-flox.asciinema-agg"
       ],
       "created": 1667071863,
-      "lastActive": 1667071857
+      "lastActive": 1667912236
+    },
+    "7": {
+      "path": "/nix/store/jb7f8ahy1mh1nba2ipqbf5xngr8y718w-profile",
+      "logMessage": [
+        "Generation 6->7: brantley removed stable.flox.flox"
+      ],
+      "created": 1667912236,
+      "lastActive": 1667912236
     }
   },
-  "currentGen": "6"
+  "currentGen": "7"
 }
