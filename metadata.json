@@ -64,8 +64,16 @@
         "Generation 7->8: brantley installed stable.flox.flox-prerelease"
       ],
       "created": 1667912613,
-      "lastActive": 1667912464
+      "lastActive": 1668455684
+    },
+    "9": {
+      "path": "/nix/store/vpa6sjhvx517qjy32rfxxg1vmzxbxhzf-profile",
+      "logMessage": [
+        "Generation 8->9: brantley installed stable.nixpkgs-flox.asciinema"
+      ],
+      "created": 1668455704,
+      "lastActive": 1668455684
     }
   },
-  "currentGen": "8"
+  "currentGen": "9"
 }
