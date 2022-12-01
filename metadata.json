@@ -72,8 +72,16 @@
         "Generation 8->9: brantley installed stable.nixpkgs-flox.asciinema"
       ],
       "created": 1668455704,
-      "lastActive": 1668455684
+      "lastActive": 1669933596
+    },
+    "10": {
+      "path": "/nix/store/rmrvbhd23mdv5s6nil4zwg9iz443y9wv-profile",
+      "logMessage": [
+        "Generation 9->10: brantley installed stable.nixpkgs-flox.elixir"
+      ],
+      "created": 1669933606,
+      "lastActive": 1669933596
     }
   },
-  "currentGen": "9"
+  "currentGen": "10"
 }
