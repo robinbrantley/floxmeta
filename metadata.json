@@ -81,8 +81,16 @@
         "Generation 10->10: brantley removed "
       ],
       "created": 1669933606,
-      "lastActive": 1669933853
+      "lastActive": 1669933862
+    },
+    "11": {
+      "path": "/nix/store/vpa6sjhvx517qjy32rfxxg1vmzxbxhzf-profile",
+      "logMessage": [
+        "Generation 10->11: brantley removed stable.nixpkgs-flox.elixir"
+      ],
+      "created": 1669933862,
+      "lastActive": 1669933862
     }
   },
-  "currentGen": "10"
+  "currentGen": "11"
 }
