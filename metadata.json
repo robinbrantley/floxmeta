@@ -97,8 +97,16 @@
         "Generation 11->12: brantley removed stable.flox.flox-prerelease"
       ],
       "created": 1672767977,
-      "lastActive": 1672767977
+      "lastActive": 1672768243
+    },
+    "13": {
+      "path": "/nix/store/kh15144lb7n40xjc1802way6ddk5p70h-profile",
+      "logMessage": [
+        "Generation 12->13: brantley installed stable.flox.flox"
+      ],
+      "created": 1672768246,
+      "lastActive": 1672768243
     }
   },
-  "currentGen": "12"
+  "currentGen": "13"
 }
