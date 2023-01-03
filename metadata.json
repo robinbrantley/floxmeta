@@ -105,8 +105,17 @@
         "Generation 12->13: brantley installed stable.flox.flox"
       ],
       "created": 1672768246,
-      "lastActive": 1672768243
+      "lastActive": 1672769305
+    },
+    "14": {
+      "path": "/nix/store/4c2zpbj7nijk9vii5kik055qhcxn8xq6-floxShell",
+      "logMessage": [
+        "brantley converted to 0.0.8 floxmeta schema"
+      ],
+      "created": 1672769305,
+      "lastActive": 1672769305,
+      "version": 2
     }
   },
-  "currentGen": "13"
+  "currentGen": "14"
 }
