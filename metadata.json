@@ -113,9 +113,18 @@
         "brantley converted to 0.0.8 floxmeta schema"
       ],
       "created": 1672769305,
-      "lastActive": 1672769305,
+      "lastActive": 1672769364,
+      "version": 2
+    },
+    "15": {
+      "path": "/nix/store/v13rqj5w5cfi9977vsj4pkgvl2pr5pbd-floxShell",
+      "logMessage": [
+        "brantley removed stable.flox.flox"
+      ],
+      "created": 1672769364,
+      "lastActive": 1672769364,
       "version": 2
     }
   },
-  "currentGen": "14"
+  "currentGen": "15"
 }
