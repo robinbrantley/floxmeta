@@ -122,9 +122,18 @@
         "brantley removed stable.flox.flox"
       ],
       "created": 1672769364,
-      "lastActive": 1672769364,
+      "lastActive": 1672769811,
+      "version": 2
+    },
+    "16": {
+      "path": "/nix/store/di51ls5gqq39kzvdm83v7s0bg0vzcq86-floxShell",
+      "logMessage": [
+        "brantley installed stable.nixpkgs-flox.redis"
+      ],
+      "created": 1672769811,
+      "lastActive": 1672769811,
       "version": 2
     }
   },
-  "currentGen": "15"
+  "currentGen": "16"
 }
