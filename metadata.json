@@ -89,8 +89,16 @@
         "Generation 10->11: brantley removed stable.nixpkgs-flox.elixir"
       ],
       "created": 1669933862,
-      "lastActive": 1669933862
+      "lastActive": 1672767977
+    },
+    "12": {
+      "path": "/nix/store/vygsnm71plxcwffxgpc3k4bxypxd1y6x-profile",
+      "logMessage": [
+        "Generation 11->12: brantley removed stable.flox.flox-prerelease"
+      ],
+      "created": 1672767977,
+      "lastActive": 1672767977
     }
   },
-  "currentGen": "11"
+  "currentGen": "12"
 }

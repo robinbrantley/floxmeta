@@ -32,10 +32,6 @@
   channel = "nixpkgs-flox"
   stability = "staging"
 
-  [packages."flox-prerelease"]
-  channel = "flox"
-  stability = "stable"
-
   [packages."git"]
   channel = "nixpkgs-flox"
   stability = "stable"
