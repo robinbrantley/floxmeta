@@ -158,7 +158,7 @@
         "brantley upgraded "
       ],
       "created": 1673004158,
-      "lastActive": 1673008657,
+      "lastActive": 1673035164,
       "version": 2
     },
     "20": {
@@ -169,7 +169,16 @@
       "created": 1673008657,
       "lastActive": 1673010312,
       "version": 2
+    },
+    "21": {
+      "path": "/nix/store/p7aq4pfigvrrkq3h0n7hsrlhim5disw4-floxShell",
+      "logMessage": [
+        "brantley installed stable.nixpkgs-flox.cowsay"
+      ],
+      "created": 1673035164,
+      "lastActive": 1673035164,
+      "version": 2
     }
   },
-  "currentGen": "19"
+  "currentGen": "21"
 }
