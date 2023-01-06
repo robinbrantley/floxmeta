@@ -140,9 +140,18 @@
         "brantley removed stable.nixpkgs-flox.redis"
       ],
       "created": 1672771238,
-      "lastActive": 1672771238,
+      "lastActive": 1673004095,
+      "version": 2
+    },
+    "18": {
+      "path": "/nix/store/nphayx7s23zbcx8rzjxcsypwv7mhqjaf-floxShell",
+      "logMessage": [
+        "brantley installed stable.nixpkgs-flox.jq"
+      ],
+      "created": 1673004095,
+      "lastActive": 1673004095,
       "version": 2
     }
   },
-  "currentGen": "17"
+  "currentGen": "18"
 }
