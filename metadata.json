@@ -158,9 +158,18 @@
         "brantley upgraded "
       ],
       "created": 1673004158,
-      "lastActive": 1673004158,
+      "lastActive": 1673008657,
+      "version": 2
+    },
+    "20": {
+      "path": "/nix/store/5vxcljbfwnqvadzgiqjnxg4x24fd4fgh-floxShell",
+      "logMessage": [
+        "brantley installed stable.nixpkgs-flox.daemonize"
+      ],
+      "created": 1673008657,
+      "lastActive": 1673008657,
       "version": 2
     }
   },
-  "currentGen": "19"
+  "currentGen": "20"
 }
