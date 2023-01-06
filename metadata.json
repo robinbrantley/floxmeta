@@ -149,9 +149,18 @@
         "brantley installed stable.nixpkgs-flox.jq"
       ],
       "created": 1673004095,
-      "lastActive": 1673004095,
+      "lastActive": 1673004158,
+      "version": 2
+    },
+    "19": {
+      "path": "/nix/store/argx0qjw397y9s9j58kqhxggxgiiam5a-floxShell",
+      "logMessage": [
+        "brantley upgraded "
+      ],
+      "created": 1673004158,
+      "lastActive": 1673004158,
       "version": 2
     }
   },
-  "currentGen": "18"
+  "currentGen": "19"
 }
