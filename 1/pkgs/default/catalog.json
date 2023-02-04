@@ -1,0 +1,73 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-darwin": {
+      "stable": {
+        "git": {
+          "latest": {
+            "cache": {
+              "doc": {
+                "https://cache.nixos.org": {}
+              },
+              "out": {
+                "https://cache.nixos.org": {}
+              }
+            },
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-darwin",
+                "git"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/18kvqyz0pzajkzir3mf4a2nh9646dgxa-git-2.38.1"
+              ],
+              "url": "github:flox/nixpkgs/fad51abd42ca17a60fc1d4cb9382e2d79ae31836"
+            },
+            "eval": {
+              "meta": {
+                "description": "Distributed version control system",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/applications/version-management/git/default.nix:388",
+                "unfree": false
+              },
+              "name": "git-2.38.1",
+              "outputs": {
+                "doc": "/nix/store/4jbfyxv14685wv41x4j7kl8zklr24nrx-git-2.38.1-doc",
+                "out": "/nix/store/18kvqyz0pzajkzir3mf4a2nh9646dgxa-git-2.38.1"
+              },
+              "pname": "git",
+              "system": "x86_64-darwin",
+              "version": "2.38.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-darwin",
+                "stable",
+                "git"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/8h5jqbgsib0sw4cjxdf35drkz800qj2w-git-2.38.1"
+              ],
+              "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+            },
+            "schema": 1,
+            "source": {
+              "locked": {
+                "lastModified": 1671983799,
+                "revCount": 437630
+              }
+            },
+            "type": "catalogRender"
+          }
+        }
+      }
+    }
+  }
+}

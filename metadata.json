@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1675508380,
+      "lastActive": 1675508380,
+      "logMessage": [
+        "rtb installed stable.nixpkgs-flox.git"
+      ],
+      "path": "/nix/store/1m6bijdq96s381kpk6m770vd73x9627r-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
