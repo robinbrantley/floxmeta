@@ -1,0 +1,11 @@
+{
+  "channels": {},
+  "defaultFlake": "git+ssh://git@github.com/flox/floxpkgs?ref=master",
+  "defaultSubstituter": "https://flox-store-public.s3.us-east-1.amazonaws.com?trusted=1",
+  "floxClientUUID": "00f86970-a47b-11ed-9d3c-3f6db8ecb1de",
+  "floxMetricsConsent": 0,
+  "gitBaseURL": "git+ssh@github.com:",
+  "organization": "flox",
+  "username": "robinbrantley",
+  "version": 1
+}
