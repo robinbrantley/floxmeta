@@ -1,13 +1,22 @@
 {
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "created": 1675508380,
-      "lastActive": 1675508380,
+      "lastActive": 1675508647,
       "logMessage": [
         "rtb installed stable.nixpkgs-flox.git"
       ],
       "path": "/nix/store/1m6bijdq96s381kpk6m770vd73x9627r-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1675508647,
+      "lastActive": 1675508647,
+      "logMessage": [
+        "rtb installed stable.nixpkgs-flox.tmux"
+      ],
+      "path": "/nix/store/5zki0gqvc019zcj8xsii2ndw6632v21s-floxShell",
       "version": 2
     }
   },

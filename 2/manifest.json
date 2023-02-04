@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-darwin.stable.git",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/8h5jqbgsib0sw4cjxdf35drkz800qj2w-git-2.38.1"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-darwin.stable.tmux",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/7kjzv65y23sx449y4v18mij6naiixyql-tmux-3.3a"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    }
+  ],
+  "version": 2
+}
