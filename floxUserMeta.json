@@ -1,5 +1,7 @@
 {
-  "channels": {},
+  "channels": {
+    "limeytexan": "github:limeytexan/floxpkgs/master"
+  },
   "defaultFlake": "git+ssh://git@github.com/flox/floxpkgs?ref=master",
   "defaultSubstituter": "https://flox-store-public.s3.us-east-1.amazonaws.com?trusted=1",
   "educatePublish": 0,
