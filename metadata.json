@@ -1,5 +1,5 @@
 {
-  "currentGen": "2",
+  "currentGen": "1",
   "generations": {
     "1": {
       "created": 1681468032,
@@ -12,7 +12,7 @@
     },
     "2": {
       "created": 1681477088,
-      "lastActive": 1681477088,
+      "lastActive": 1681838602,
       "logMessage": [
         "floxem installed stable.nixpkgs-flox.hello"
       ],
