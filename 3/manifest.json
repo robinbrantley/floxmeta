@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.hello",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/ab5pw1y75x4ndjd3dkxbcjkwjc3vp13s-hello-2.12.1"
+      ],
+      "url": "flake:nixpkgs-flox/ef0aa65607c800694e2e22e04e5f1c5926003d77"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.xcowsay",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/dr4xnmnldfvqrqv2rklwr6xy1jj7ni1n-xcowsay-1.6"
+      ],
+      "url": "flake:nixpkgs-flox/d5b4fa110c4b546b7ed51a02d523973a8e075159"
+    }
+  ],
+  "version": 2
+}
