@@ -1,5 +1,5 @@
 {
-  "currentGen": "5",
+  "currentGen": "4",
   "generations": {
     "1": {
       "created": 1681468032,
@@ -39,7 +39,7 @@
     },
     "5": {
       "created": 1681839025,
-      "lastActive": 1681839025,
+      "lastActive": 1682346173,
       "logMessage": [
         "floxem removed stable.nixpkgs-flox.cowpatty"
       ],
