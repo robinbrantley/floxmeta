@@ -1,5 +1,5 @@
 {
-  "currentGen": "4",
+  "currentGen": "3",
   "generations": {
     "1": {
       "created": 1681417982,
@@ -30,7 +30,7 @@
     },
     "4": {
       "created": 1682697575,
-      "lastActive": 1682697575,
+      "lastActive": 1682697835,
       "logMessage": [
         "floxem installed stable.nixpkgs-flox.gnome.iagno"
       ],
