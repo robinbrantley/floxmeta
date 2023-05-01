@@ -1,5 +1,5 @@
 {
-  "currentGen": "5",
+  "currentGen": "6",
   "generations": {
     "1": {
       "created": 1681417982,
@@ -39,11 +39,20 @@
     },
     "5": {
       "created": 1682951368,
-      "lastActive": 1682951368,
+      "lastActive": 1682951455,
       "logMessage": [
         "floxem removed stable.nixpkgs-flox.hello"
       ],
       "path": "/nix/store/mkj8ms5940pygs5c8fljsahbxawx2435-floxShell",
+      "version": 2
+    },
+    "6": {
+      "created": 1682951455,
+      "lastActive": 1682951455,
+      "logMessage": [
+        "floxem installed stable.nixpkgs-flox.hello"
+      ],
+      "path": "/nix/store/2jqx4yim6sx7lbrbc2ps4kihim3s7dga-floxShell",
       "version": 2
     }
   },
