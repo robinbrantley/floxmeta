@@ -1,0 +1,73 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-linux": {
+      "stable": {
+        "hello-wayland": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "hello-wayland"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27"
+              ],
+              "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+            },
+            "eval": {
+              "meta": {
+                "description": "Hello world Wayland client",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/applications/graphics/hello-wayland/default.nix:27",
+                "unfree": false
+              },
+              "name": "hello-wayland-unstable-2020-07-27",
+              "outputs": {
+                "out": "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27"
+              },
+              "pname": "hello-wayland-unstable",
+              "system": "x86_64-linux",
+              "version": "2020-07-27"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "hello-wayland"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27"
+              ],
+              "url": "flake:nixpkgs-flox/d9088ecd7dc0c49ce3e3013f42cb24c27296f834"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1679262748,
+                "revCount": 466020
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}
