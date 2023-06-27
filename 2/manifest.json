@@ -1,0 +1,15 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.aarch64-darwin.stable.vimer",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/74ahlh7iy1ki19wz3hd1hdqadwki9ij0-vimer-0.2.0"
+      ],
+      "url": "flake:nixpkgs-flox/7ef6e4b3523b3d4d0d6ba5bd6c945671fa965c99"
+    }
+  ],
+  "version": 2
+}

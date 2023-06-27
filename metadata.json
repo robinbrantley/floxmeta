@@ -1,13 +1,22 @@
 {
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "created": 1685646327,
-      "lastActive": 1685646327,
+      "lastActive": 1687884084,
       "logMessage": [
         "floxem created environment"
       ],
       "path": "/nix/store/lfy4pajaa8zww33f8x2za43zzgk5rwbl-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1687884084,
+      "lastActive": 1687884084,
+      "logMessage": [
+        "floxem installed stable.nixpkgs-flox.vimer"
+      ],
+      "path": "/nix/store/j5jiy1pxqkmwi9da28wpr793chsavawn-floxShell",
       "version": 2
     }
   },

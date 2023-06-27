@@ -1,0 +1,73 @@
+{
+  "nixpkgs-flox": {
+    "aarch64-darwin": {
+      "stable": {
+        "vimer": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/74ahlh7iy1ki19wz3hd1hdqadwki9ij0-vimer-0.2.0",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "aarch64-darwin",
+                "vimer"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/74ahlh7iy1ki19wz3hd1hdqadwki9ij0-vimer-0.2.0"
+              ],
+              "url": "github:flox/nixpkgs/7084250df3d7f9735087d3234407f3c1fc2400e3"
+            },
+            "eval": {
+              "meta": {
+                "description": "A convenience wrapper for gvim/mvim --remote(-tab)-silent to open files\nin an existing instance of GVim or MacVim.\n",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/hc2y6044ksiz4vs1cyhy6qzd6szxvm4c-source/pkgs/tools/misc/vimer/default.nix:22",
+                "unfree": false
+              },
+              "name": "vimer-0.2.0",
+              "outputs": {
+                "out": "/nix/store/74ahlh7iy1ki19wz3hd1hdqadwki9ij0-vimer-0.2.0"
+              },
+              "pname": "vimer",
+              "system": "aarch64-darwin",
+              "version": "0.2.0"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-darwin",
+                "stable",
+                "vimer"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/74ahlh7iy1ki19wz3hd1hdqadwki9ij0-vimer-0.2.0"
+              ],
+              "url": "flake:nixpkgs-flox/7ef6e4b3523b3d4d0d6ba5bd6c945671fa965c99"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1684754342,
+                "revCount": 487203
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}
