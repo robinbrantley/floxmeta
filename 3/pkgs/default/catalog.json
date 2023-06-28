@@ -1,0 +1,138 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-linux": {
+      "stable": {
+        "hello-wayland": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "hello-wayland"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27"
+              ],
+              "url": "github:flox/nixpkgs/60c1d71f2ba4c80178ec84523c2ca0801522e0a6"
+            },
+            "eval": {
+              "meta": {
+                "description": "Hello world Wayland client",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/y34pw71w25ay4j5bm5239m8gw0pp4w63-source/pkgs/applications/graphics/hello-wayland/default.nix:27",
+                "unfree": false
+              },
+              "name": "hello-wayland-unstable-2020-07-27",
+              "outputs": {
+                "out": "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27"
+              },
+              "pname": "hello-wayland-unstable",
+              "system": "x86_64-linux",
+              "version": "2020-07-27"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "hello-wayland"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/zxdshg2ddm1851apnmv2pi9d1868m39y-hello-wayland-unstable-2020-07-27"
+              ],
+              "url": "flake:nixpkgs-flox/d9088ecd7dc0c49ce3e3013f42cb24c27296f834"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1679262748,
+                "revCount": 466020
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        },
+        "vifm": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/a4yymfkbiswkvyrkdj3mr21g0k49inwb-vifm-0.13",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "vifm"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/a4yymfkbiswkvyrkdj3mr21g0k49inwb-vifm-0.13"
+              ],
+              "url": "github:flox/nixpkgs/7084250df3d7f9735087d3234407f3c1fc2400e3"
+            },
+            "eval": {
+              "meta": {
+                "description": "A vi-like file manager",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/hc2y6044ksiz4vs1cyhy6qzd6szxvm4c-source/pkgs/applications/file-managers/vifm/default.nix:48",
+                "unfree": false
+              },
+              "name": "vifm-0.13",
+              "outputs": {
+                "out": "/nix/store/a4yymfkbiswkvyrkdj3mr21g0k49inwb-vifm-0.13"
+              },
+              "pname": "vifm",
+              "system": "x86_64-linux",
+              "version": "0.13"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "vifm"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/a4yymfkbiswkvyrkdj3mr21g0k49inwb-vifm-0.13"
+              ],
+              "url": "flake:nixpkgs-flox/7ef6e4b3523b3d4d0d6ba5bd6c945671fa965c99"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1684754342,
+                "revCount": 487203
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}
