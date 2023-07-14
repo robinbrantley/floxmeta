@@ -1,0 +1,138 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-linux": {
+      "stable": {
+        "hello": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/s549276qyxagylpjvzpcw7zbjqy3swj6-hello-2.12.1",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "hello"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/s549276qyxagylpjvzpcw7zbjqy3swj6-hello-2.12.1"
+              ],
+              "url": "github:flox/nixpkgs/7084250df3d7f9735087d3234407f3c1fc2400e3"
+            },
+            "eval": {
+              "meta": {
+                "description": "A program that produces a familiar, friendly greeting",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/hc2y6044ksiz4vs1cyhy6qzd6szxvm4c-source/pkgs/applications/misc/hello/default.nix:34",
+                "unfree": false
+              },
+              "name": "hello-2.12.1",
+              "outputs": {
+                "out": "/nix/store/s549276qyxagylpjvzpcw7zbjqy3swj6-hello-2.12.1"
+              },
+              "pname": "hello",
+              "system": "x86_64-linux",
+              "version": "2.12.1"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "hello"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/s549276qyxagylpjvzpcw7zbjqy3swj6-hello-2.12.1"
+              ],
+              "url": "flake:nixpkgs-flox/b106c2d78d4258d781488743178a6ec63dc555ba"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1684754342,
+                "revCount": 487203
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        },
+        "soapyhackrf": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/1kvna4xg8f8i3gn46ibcj8yp9vj92ma3-soapyhackrf-0.3.4",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "soapyhackrf"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/1kvna4xg8f8i3gn46ibcj8yp9vj92ma3-soapyhackrf-0.3.4"
+              ],
+              "url": "github:flox/nixpkgs/7084250df3d7f9735087d3234407f3c1fc2400e3"
+            },
+            "eval": {
+              "meta": {
+                "description": "SoapySDR plugin for HackRF devices",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/hc2y6044ksiz4vs1cyhy6qzd6szxvm4c-source/pkgs/applications/radio/soapyhackrf/default.nix:28",
+                "unfree": false
+              },
+              "name": "soapyhackrf-0.3.4",
+              "outputs": {
+                "out": "/nix/store/1kvna4xg8f8i3gn46ibcj8yp9vj92ma3-soapyhackrf-0.3.4"
+              },
+              "pname": "soapyhackrf",
+              "system": "x86_64-linux",
+              "version": "0.3.4"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "soapyhackrf"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/1kvna4xg8f8i3gn46ibcj8yp9vj92ma3-soapyhackrf-0.3.4"
+              ],
+              "url": "flake:nixpkgs-flox/69c16c5b25a14cebf5ac265ee528313a58b97e58"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1684754342,
+                "revCount": 487203
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}
