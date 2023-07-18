@@ -1,0 +1,15 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.hello-wayland",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/8v6rscpnmfjbzn60kpdnk0da7gayx3ma-hello-wayland-unstable-2023-04-23"
+      ],
+      "url": "flake:nixpkgs-flox/050d9e9be1167fb70b52098c21aa31f5d2a28662"
+    }
+  ],
+  "version": 2
+}

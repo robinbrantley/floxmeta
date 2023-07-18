@@ -1,13 +1,22 @@
 {
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "created": 1689706311,
-      "lastActive": 1689706311,
+      "lastActive": 1689706567,
       "logMessage": [
         "floxem created environment"
       ],
       "path": "/nix/store/jc5jwbh48m5y3vr2gqbbj8ym6d444y78-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1689706567,
+      "lastActive": 1689706567,
+      "logMessage": [
+        "floxem installed stable.nixpkgs-flox.hello-wayland"
+      ],
+      "path": "/nix/store/0c344cps166nmk2vfk240fs74057lcp3-floxShell",
       "version": 2
     }
   },
