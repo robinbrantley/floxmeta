@@ -1,0 +1,73 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-linux": {
+      "stable": {
+        "hello-wayland": {
+          "latest": {
+            "cache": [
+              {
+                "cacheUrl": "https://cache.nixos.org",
+                "narinfo": [
+                  {
+                    "path": "/nix/store/8v6rscpnmfjbzn60kpdnk0da7gayx3ma-hello-wayland-unstable-2023-04-23",
+                    "valid": true
+                  }
+                ]
+              }
+            ],
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "hello-wayland"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "storePaths": [
+                "/nix/store/8v6rscpnmfjbzn60kpdnk0da7gayx3ma-hello-wayland-unstable-2023-04-23"
+              ],
+              "url": "github:flox/nixpkgs/f742512ccc99e6ac457d6d4ddce78f283c4bbfde"
+            },
+            "eval": {
+              "meta": {
+                "description": "Hello world Wayland client",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/3wla32r0vf8370p5y1zw1hk06914myvq-source/pkgs/applications/graphics/hello-wayland/default.nix:31",
+                "unfree": false
+              },
+              "name": "hello-wayland-unstable-2023-04-23",
+              "outputs": {
+                "out": "/nix/store/8v6rscpnmfjbzn60kpdnk0da7gayx3ma-hello-wayland-unstable-2023-04-23"
+              },
+              "pname": "hello-wayland",
+              "system": "x86_64-linux",
+              "version": "unstable-2023-04-23"
+            },
+            "publish_element": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "hello-wayland"
+              ],
+              "originalUrl": "nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/8v6rscpnmfjbzn60kpdnk0da7gayx3ma-hello-wayland-unstable-2023-04-23"
+              ],
+              "url": "flake:nixpkgs-flox/453da5b130a43258c2ab95b13fc0fcdb072ecfe7"
+            },
+            "source": {
+              "locked": {
+                "lastModified": 1687661089,
+                "revCount": 497708
+              }
+            },
+            "type": "catalogRender",
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}
