@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1690290437,
+      "lastActive": 1690290437,
+      "logMessage": [
+        "floxem created environment"
+      ],
+      "path": "/nix/store/jc5jwbh48m5y3vr2gqbbj8ym6d444y78-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
