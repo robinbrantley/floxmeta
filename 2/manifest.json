@@ -1,0 +1,15 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.hello",
+      "originalUrl": "nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/8jvsb5xz6vpgbv4hls6n9lxdfd3b4vfh-hello-2.12.1"
+      ],
+      "url": "flake:nixpkgs-flox/453da5b130a43258c2ab95b13fc0fcdb072ecfe7"
+    }
+  ],
+  "version": 2
+}
