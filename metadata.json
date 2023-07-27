@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1690469376,
+      "lastActive": 1690469376,
+      "logMessage": [
+        "rtb created environment"
+      ],
+      "path": "/nix/store/pcf93p7zbcg46cmv3dj483fblshi4fdz-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
